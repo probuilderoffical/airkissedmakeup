@@ -1,0 +1,9 @@
+{
+  "name":"AirKissed Makeup",
+  "short_name":"AirKissed",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#fffdf9",
+  "theme_color":"#201916",
+  "icons":[{"src":"assets/brand-mark.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
